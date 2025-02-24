@@ -1,10 +1,10 @@
 {
-	"name": "rabbits",
-	"short_name": "rabbits",
+	"name": "2048",
+	"short_name": "2048",
 	"description": "",
 	"start_url": "index.html",
 	"display": "fullscreen",
-	"orientation": "landscape",
+	"orientation": "portrait",
 	"background_color": "#ffffff",
 	"icons": [
 		{
@@ -37,5 +37,6 @@
 			"sizes": "512x512",
 			"type": "image/png"
 		}
-	]
+	],
+	"screenshots": []
 }
